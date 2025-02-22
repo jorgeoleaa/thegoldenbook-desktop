@@ -3,7 +3,7 @@
   <groupId>TheGoldenBook-UI-v1</groupId>
   <artifactId>TheGoldenBook-UI-v1</artifactId> 
   <version>0.0.1-SNAPSHOT</version>
-  <build>
+  <build> 
     <sourceDirectory>src</sourceDirectory>
     <resources>
       <resource>
